@@ -1566,7 +1566,7 @@
                 class="bg-[#fff2f2] dark:bg-[#1D0002] relative lg:-ml-px -mb-px lg:mb-0 rounded-t-lg lg:rounded-t-none lg:rounded-r-lg aspect-[335/376] lg:aspect-auto w-full lg:w-[438px] shrink-0 overflow-hidden">
                 {{-- Custom Logo --}}
                 <a href="{{ url('/') }}" class="flex items-center space-x-2">
-                    <img src="{{ asset('assets/images/connect-grow-dark.png') }}" alt="Connect & Grow Logo"
+                    <img src="{{ asset('assets/images/connect.png') }}" alt="Connect & Grow Logo"
                         height="40">
                     <span class="text-xl font-semibold text-gray-800">Connect & Grow</span>
                 </a>
